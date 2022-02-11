@@ -1,2 +1,2 @@
-Olá! Este programa JAVA teste de List. 
-lê uma quantidade x de funcionários e adiciona um almento de x % no salário.
+Helo!
+This program reads x number of employees and adds x % increase to salary.
